@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|c:\\users\\acer\\desktop\\svm\\problema duala a svm-ului\\svm\\svm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|solutionrelative:svm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\svm\\problema_svm\\problema_duala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|solutionrelative:svm\\problema_svm\\problema_duala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\svm\\problema_svm\\constrangeri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|solutionrelative:svm\\problema_svm\\constrangeri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\svm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|solutionrelative:svm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\svm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDC385F-4C39-4489-83CC-F2450D2504B6}|SVM\\SVM.csproj|solutionrelative:svm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constrangeri.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Problema_SVM\\Constrangeri.cs",
+              "RelativeDocumentMoniker": "SVM\\Problema_SVM\\Constrangeri.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Problema_SVM\\Constrangeri.cs",
+              "RelativeToolTip": "SVM\\Problema_SVM\\Constrangeri.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:17:06.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Problema_Duala.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Problema_SVM\\Problema_Duala.cs",
+              "RelativeDocumentMoniker": "SVM\\Problema_SVM\\Problema_Duala.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Problema_SVM\\Problema_Duala.cs",
+              "RelativeToolTip": "SVM\\Problema_SVM\\Problema_Duala.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:14:27.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Form1.cs",
+              "RelativeDocumentMoniker": "SVM\\Form1.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Form1.cs",
+              "RelativeToolTip": "SVM\\Form1.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAcwGIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:40:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Form1.cs",
+              "RelativeDocumentMoniker": "SVM\\Form1.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\Licienta\\incerc\\SVM\\SVM\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Licienta\\incerc\\SVM\\SVM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:23:07.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SVM\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\SVM\\Problema Duala a SVM-ului\\SVM\\SVM\\Form1.Designer.cs",
+              "RelativeToolTip": "SVM\\Form1.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:48:14.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
